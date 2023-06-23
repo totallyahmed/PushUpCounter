@@ -13,5 +13,3 @@ Activate mediapipe’s Pose Detection module.
 Next would be the code for the actual Push-up counting. In this, we will use the PoseModule and determine whether a push-up should be considered proper or improper form.
 
 One important thing to note is from Line 17–21. Determine the resolution of your image captured from your camera, and from there adjust the pixel values when drawing the rectangles for the Push-up count, etc. (Lines 68–82).
-
-![alt text]([https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JJCbfzhTySIqKr1L5pDkpQ.png](https://miro.medium.com/v2/resize:fit:828/1*EhczOJxy1hiCVTsPHytE-A.gif)https://miro.medium.com/v2/resize:fit:828/1*EhczOJxy1hiCVTsPHytE-A.gif)
